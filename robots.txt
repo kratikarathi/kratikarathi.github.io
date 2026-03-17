@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kratikarathi.github.io/al-folio/sitemap.xml
+Sitemap: https://kratikarathi.github.io/sitemap.xml
