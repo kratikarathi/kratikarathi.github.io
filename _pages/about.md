@@ -24,7 +24,7 @@ latest_posts:
 
 Hi! I'm Kratika, a first year graduate student in Computer Science at the University of Southern California. Previously, I earned my Bachelor's degree in Statistics from the University of British Columbia (pictured on your right). 
 
-I've worked as an Actuarial Analyst at an insurance company called iA Financial (and also passed the SOA Exam P!). More information about my past internips and co-ops can be found on my LinkedIn : [Kratika Rathi](https://www.linkedin.com/in/kratikarathi/)
+I've worked as an Actuarial Analyst at an insurance company called iA Financial (and also passed the SOA Exam P!). More information about my past internships and co-ops can be found on my LinkedIn : [Kratika Rathi](https://www.linkedin.com/in/kratikarathi/)
 
 I’m deeply interested in the intersection of statistics and computer science, with particular emphasis on machine learning, large language models, and optimization methods. I'm currently working with on a research paper to develop a model to classify different geochemical trends found in the Hawaiian Islands.
 
