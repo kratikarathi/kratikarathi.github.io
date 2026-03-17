@@ -2,7 +2,7 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/Rathi_Kratika_Resume.pdf # path to your CV PDF file
-email: kratikar2011@example.com # your email address
+email: kratikar2011@gmail.com # your email address
 linkedin_username: https://www.linkedin.com/in/kratikarathi/
 github_username: https://github.com/kratikarathi
 #inspirehep_id: 1010907 # Inspire HEP author ID
