@@ -525,14 +525,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/kratikarathi/", "_blank");
+          window.open("https://www.linkedin.com/in/kratikarathi", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/kratikarathi", "_blank");
+          window.open("https://github.com/kratikarathi", "_blank");
         },
       },{
       id: 'light-theme',
