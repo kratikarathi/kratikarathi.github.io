@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kratikarathi
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - kratikarathi/Garden-Management
+  - kratikarathi/Global-Youtube_Trends
+  - kratikarathi/Housing-Market-in-Sydney-Australia
+  - kratikarathi/Quantifying-Student-Performances
