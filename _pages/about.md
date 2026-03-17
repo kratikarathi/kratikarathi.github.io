@@ -27,7 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Kratika, a first year graduate student in Computer Science at the University of Southern California. Previously, I earned my Bachelor's degree in Statistics from the University of British Columbia (pictured on your right). 
+
+I've worked as an Actuarial Analyst at an insurance company called iA Financial (and also passed the SOA Exam P!). More information about my past internips and co-ops can be found on my LinkedIn : [Kratika Rathi](https://www.linkedin.com/in/kratikarathi/)
+
+I’m deeply interested in the intersection of statistics and computer science, with particular emphasis on machine learning, large language models, and optimization methods. I'm currently working with on a research paper to develop a model to classify different geochemical trends found in the Hawaiian Islands.
+
+Feel free to connect with me if you'd like to discuss statistics, computer science, badminton or Percy Jackson! 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
