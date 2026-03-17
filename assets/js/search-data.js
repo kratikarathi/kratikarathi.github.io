@@ -511,7 +511,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/Rathi_Kratika_Resume.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -526,6 +526,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/kratikarathi/", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/https://github.com/kratikarathi", "_blank");
         },
       },{
       id: 'light-theme',
