@@ -8,13 +8,9 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
+Future Publications
 
-<!-- Bibsearch Feature -->
+1. Classifying Mantle Compositions using Geochemical Data from Hawaiian Lavas
+   Explored a cost-effective method to analyze geochemical trends in Hawaiian rock samples. Explored several ML models such as Random forest, Gradient Boosting and KNN Clustering with many feature engineering techniques such as PCA and composition data transformation to reduce dimensionality and increase interpretability.
 
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>
+The repository to this paper is private, since the paper hasn't been published yet.
