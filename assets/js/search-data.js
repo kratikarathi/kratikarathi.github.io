@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-kratika-rathi-computer-science-and-ml",
-    title: "Kratika Rathi | Computer Science and ML",
+    id: "nav-kratika-rathi-about",
+    title: "Kratika Rathi | about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
