@@ -1,8 +1,9 @@
 ---
 layout: about
-title: about
+title: "Kratika Rathi | Computer Science and ML"
 permalink: /
 
+description: "Kratika Rathi's personal website, showcasing her portfolio in Computer Science and ML"
 profile:
   align: right
   image: prof_pic.jpg
