@@ -1,6 +1,6 @@
 ---
 layout: about
-title: "Kratika Rathi | Computer Science and ML"
+title: "Kratika Rathi | about"
 permalink: /
 
 description: "Kratika Rathi's personal website, showcasing her portfolio in Computer Science and ML"
