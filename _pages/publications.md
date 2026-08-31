@@ -21,6 +21,21 @@ Worked with the amazing Elly Thistlewaite from UBC EOAS to explore a cost-effect
 
 The repository to this paper is private, since the paper hasn't been published yet.
 
+3. Animal Welfare Program at UBC
+
+One of my best research experiences was working at AWP with the remarkable Shy Sheng and Borbala Foris. We worked together to explore the viability of mixed effects linear model for inter and intra cattle feeding and drinking repeatability and predictability analysis.
+
+moo4feed is a R package we developed to help with the analysis: https://github.com/skysheng7/moo4feed[moo4feed]
+
+4. Non-Invasive Neurostimulation Therapies (NINET) Lab at UBC
+
+My first research experience was working at NINET, cleaning and wrangling individual patient surveys to determine a trend in depression scores over the course of the treatment.
+
+
+
+
+
+
 
 
 
