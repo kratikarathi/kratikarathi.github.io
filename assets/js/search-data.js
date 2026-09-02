@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "",
+          description: "kratika rathi&#39;s research experience in ml, stats and computer science",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
