@@ -178,7 +178,6 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-socials
-  - jekyll-seo-tag
   - jekyll-tabs
   - jekyll-terser
   - jekyll-toc
