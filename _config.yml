@@ -17,7 +17,7 @@ footer_text: >
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🍦 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 author: Kratika Rathi
-keywords: Kratika Rathi, USC, UBC, machine learning, melady lab, statistics, computer science, kratika, rathi, portfolio-website, academic-website, ia financial, awp
+keywords: kratika rathi, USC, UBC, machine learning, melady lab, statistics, computer science, kratika, rathi, portfolio-website, academic-website, ia financial, awp
 
 url: https://kratikarathi.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
