@@ -2,6 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
+description: kratika rathi's research experience in ml, stats and computer science
 nav: true
 nav_order: 2
 ---
