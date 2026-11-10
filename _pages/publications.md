@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: kratika rathi's research experience in ml, stats and computer science
+description: Kratika Rathi's research experience in ML, stats and computer science
 nav: true
 nav_order: 2
 ---
@@ -12,7 +12,7 @@ nav_order: 2
 
 ### **Melady Lab at USC**
 
-I have the honor of working with the incredibly smart PhD student Jiacheng Pang developing a decidable procedure for reusing agent skills across environments. 
+I had the privilege of working with the incredibly smart PhD student Jiacheng Pang from the Melady Lab at UBC, developing a decidable procedure for reusing agent skills across environments, by splitting them into 2 parts : a freezable core and an environment-specific adapter. This division can lead to better, faster and cheaper transferability of skills across environments. 
 
 The repository to this paper is private, since the paper hasn't been published yet.
 
